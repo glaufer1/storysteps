@@ -1,1 +1,6 @@
+# Create and enter the project folder
+mkdir storysteps && cd storysteps
+
+# Create index.html with basic content
+echo "<!DOCTYPE html><html><head><title>StorySteps</title></head><body><h1>Hello from AWS Amplify!</h1></body></html>" > index.html
 
