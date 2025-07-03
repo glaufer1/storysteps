@@ -1,4 +1,4 @@
 echo "<!DOCTYPE html><html><head><title>StorySteps</title></head><body><h1>Hello from AWS Amplify!</h1></body></html>" > index.html
 storysteps/
 └── index.html
-
+mv storysteps/index.html .
